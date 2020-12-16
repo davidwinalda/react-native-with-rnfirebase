@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368594694171",
+    "project_id": "inalum-d7ca0",
+    "storage_bucket": "inalum-d7ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368594694171:android:0ab6f315b153e4668788be",
+        "android_client_info": {
+          "package_name": "com.reactnativewithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368594694171-8f1bu1f7mred8m8stpi2pvl144delkh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXVucN6SYURkTR3XNcbBAmkUSTi1wP08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368594694171-8f1bu1f7mred8m8stpi2pvl144delkh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
